@@ -29,24 +29,22 @@
 ### Networking
 ### Security
 ### StackDriver
-## Additional features
-## Deploying our first application
-Cluster second-day operations
-Upgrading the cluster
-Auto-upgrade
-Auto-Repair
-Resizing the cluster
-Autoscaling a cluser
-Rotating the master IP
-IAM
-Kubernetes role-based access control
-Container Registry
-Cloud Build
-Quotas and limits
-Pricing
-
-App Engine
-
-Cloud Functions
+### Additional features
+### Deploying our first application
+### Cluster second-day operations
+### Upgrading the cluster
+### Auto-upgrade
+### Auto-Repair
+### Resizing the cluster
+### Autoscaling a cluser
+### Rotating the master IP
+### IAM
+### Kubernetes role-based access control
+### Container Registry
+### Cloud Build
+### Quotas and limits
+### Pricing
+### App Engine
+### Cloud Functions
 
 
