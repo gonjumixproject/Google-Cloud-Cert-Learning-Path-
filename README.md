@@ -1,4 +1,4 @@
-# Google-Cloud-Cert-Learning-Path-
+![image](https://github.com/gonjumixproject/Google-Cloud-Cert-Learning-Path-/assets/43034144/949492da-8aa1-4057-8f6e-683ed8ab0276)# Google-Cloud-Cert-Learning-Path-
 # Chapter 2: Designing for Business Requirements
 # Chapter 3: Designing for Technical Requirements
 # Chapter 4: Designing Compute Systems 
@@ -14,7 +14,7 @@ The worker node(s) host the **Pods** that are the components of the application 
 
 This document outlines the various components you need to have for a complete and working Kubernetes cluster.
 
-</"https://kubernetes.io/images/docs/components-of-kubernetes.svg">
+[<img src="path/to/image.png">]([https://link-to-your-URL/](https://kubernetes.io/images/docs/components-of-kubernetes.svg))
 
 
 ### An introduction to microservices
