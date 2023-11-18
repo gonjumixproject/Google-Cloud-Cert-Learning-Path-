@@ -1,4 +1,39 @@
 # Google-Cloud-Cert-Learning-Path-
+
+- [ ]  Google Professional Cloud Architect sertifikasi alinmak isteniyor.
+  - [ ]  Google Professional Cloud Architect Study Guide temel alinarak calisilinacak
+    - [ ] Eksik gorduklerimizi de Professional Cloud Architect – Google Cloud Certification Guide temel alinarak calisilinacak
+    - [ ] Linkedin Learningden DEMOlar yapilacak
+
+- [ ] 19-10-23 / 25-10-23
+  - [ ] Chapter 3 Designing for Technical Requirements
+  - [ ] Chapter 4 Designing Compute Systems
+  - [ ] Linkedin DEMOS PART 1 Course: Google Cloud Professional Cloud Architect Cert Prep: 1 Designing and Planning a Cloud Solution Architecture
+- [ ] 26-10-23 / 02-11-23
+  - [ ] Chapter 5 Designing Storage Systems
+  - [ ] Read Exploring Storage Options in GCP - Part 1
+  - [ ] Read Exploring Storage Options in GCP - Part 2
+ - [ ] 03-11-23 / 09-11-23
+  - [ ] Chapter 6 Designing Networks
+  - [ ] Read Network Options in GCP
+  - [ ] Linkedin DEMOS PART 2 Google Cloud Professional Cloud Architect Cert Prep: 2 Managing and Provisioning a Solution Infrastructure
+- [ ] 10-11-23 / 16-11-23
+  - [ ] Chapter 7 Designing for Security and Legal Compliance
+  - [ ] Read Section 3 : Designing for Security and Compliance
+  - [ ] Linkedin DEMO Google Cloud Professional Cloud Architect Cert Prep: 3 Designing for Security and Compliance
+- [ ] 17-11-23 / 23-11-23
+  - [ ] Chapter 8 Designing for Reliability
+  - [ ] Read Section 5 : Ensuring Solution and Operations Reliability
+  - [ ] Chapter 9 Analyzing and Defining Technical Processes 
+  - [ ] Chapter 10 Analyzing and Defining Business Processes
+  - [ ] Linkedin Demo Google Cloud Professional Cloud Architect Cert Prep: 4 Analyzing and Optimizing Technical and Business Processes
+- [ ] 24-11-23 / 30-11-23
+  - [ ] Chapter 11 Development and Operations 
+  - [ ] Chapter 12 Migration Planning
+  - [ ] Read Section 4 : Managing Implementation
+  - [ ] Linkedin Demo Google Cloud Professional Cloud Architect Cert Prep: 5 Managing Implementation
+  - [ ] Linkedin Demo Google Cloud Professional Cloud Architect Cert Prep: 6 Ensuring Solution and Operations Reliability
+
 # Chapter 2: Designing for Business Requirements
 # Chapter 3: Designing for Technical Requirements
 # Section 2: Managing, Designing, and Planning a Cloud Solution Architecture
