@@ -3,7 +3,7 @@
 # Chapter 3: Designing for Technical Requirements
 <details>
 <summary> Section 2: Managing, Designing, and Planning a Cloud Solution Architecture </summary>
-<details>
++ <details>
 
 ## Working with Google Compute Engine
 </details>
