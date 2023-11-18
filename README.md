@@ -20,13 +20,15 @@ If you have never heard of these before, don't worry—we will take you through 
 
 Let's start by going over the concept of microservices. In the legacy world, applications were delivered in a monolithic architecture. This meant that multiple services were hosted together on a single node. In the microservice architecture, the application is divided into a number of microservices, each hosted on a separate node, like so:
 
-IMAGE KB1
+<img width="463" alt="Kb1" src="https://github.com/gonjumixproject/Google-Cloud-Cert-Learning-Path-/assets/43034144/69512a18-9b3f-4ec2-b6e7-79448caa0c2a">
+
 
 ### Containers
 
 To understand containers, let's compare them with virtual machines. While virtual machines virtualize hardware, containers virtualize the operating system. They abstract the application, along with all its dependencies, into one unit. Multiple containers can be hosted on one operating system running as an isolated process:
 
-Image KB2 
+<img width="461" alt="kb2" src="https://github.com/gonjumixproject/Google-Cloud-Cert-Learning-Path-/assets/43034144/8ce24425-88ac-4fb8-900b-3a8b834ab047">
+
 
 Containers bring the following advantages:
 
@@ -48,7 +50,8 @@ Kubernetes, also known as K8s, is an open source container orchestrator that was
 
 In the following diagram, we can see the basic architecture of a Kubernetes cluster. The cluster consists of multiple nodes. From a high level, the master nodes are responsible for the management of the cluster, while the worker nodes host the workloads. The worker nodes host so-called Pods, which are the most atomic units of Kubernetes. These Pods can contain one or more containers. Access to the containers in the Pods is provided using services. In the following diagram, we can see a Kubernetes cluster and the services that are hosted on each type of node:
 
-IMAGE KB3 
+<img width="438" alt="kb3" src="https://github.com/gonjumixproject/Google-Cloud-Cert-Learning-Path-/assets/43034144/7a502746-c33f-497f-a0b2-a3bb9c0df6f4">
+
 
 Now, let's have a closer look at master and worker nodes.
 
@@ -57,7 +60,8 @@ The master node takes care of maintaining the desired state of the cluster. It m
 
 It is essentially a control plane for the cluster. It works as follows:
 
-IMAGE Kb4
+<img width="604" alt="kb4" src="https://github.com/gonjumixproject/Google-Cloud-Cert-Learning-Path-/assets/43034144/4d81ad23-a59e-4d55-8663-b00dd8560a01">
+
 
 The master node runs multiple processes:
 
