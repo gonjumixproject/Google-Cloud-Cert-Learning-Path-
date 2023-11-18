@@ -4,7 +4,6 @@
   - [ ]  Google Professional Cloud Architect Study Guide temel alinarak calisilinacak
     - [ ] Eksik gorduklerimizi de Professional Cloud Architect – Google Cloud Certification Guide temel alinarak calisilinacak
     - [ ] Linkedin Learningden DEMOlar yapilacak
-
 - [ ] 19-10-23 / 25-10-23
   - [ ] Chapter 3 Designing for Technical Requirements
   - [ ] Chapter 4 Designing Compute Systems
