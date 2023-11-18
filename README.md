@@ -1,14 +1,8 @@
 # Google-Cloud-Cert-Learning-Path-
 # Chapter 2: Designing for Business Requirements
 # Chapter 3: Designing for Technical Requirements
-<details>
-<summary> Section 2: Managing, Designing, and Planning a Cloud Solution Architecture </summary>
-+ <details>
-
+# Section 2: Managing, Designing, and Planning a Cloud Solution Architecture
 ## Working with Google Compute Engine
-</details>
-</details>
-
 ## Managing Kubernetes Clusters with Google Kubernetes Engine
 
 In the previous chapter, we took a deep dive into Google Compute Engine, which provides Infrastructure as a Service. In this chapter, we will look at a Container as a Service (CaaS) offering. Google Kubernetes Engine (GKE) allows us to create managed Kubernetes clusters on demand. Before we start talking about GKE, we need to understand a few concepts, such as microservices, containers, and Kubernetes (K8s) itself.
